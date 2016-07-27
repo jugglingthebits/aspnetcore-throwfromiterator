@@ -1,0 +1,6 @@
+﻿karma/coverage/
+wwwroot/*
+ts/**/*.js
+typescript/**/*.js
+build/
+temp/
